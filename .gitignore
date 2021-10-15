@@ -10,3 +10,8 @@ Cargo.lock
 **/*.rs.bk
 .idea
 *.docx
+.jekyll-metadata
+.jekyll-cache
+_site
+Gemfile.lock
+assets
