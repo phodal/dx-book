@@ -15,3 +15,5 @@ Cargo.lock
 _site
 Gemfile.lock
 assets
+template
+.DS_Store
