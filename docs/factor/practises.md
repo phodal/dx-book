@@ -11,3 +11,9 @@ permalink: /docs/factor
 
 开发者体验所需要的五个基础元素。
 {: .fs-6 .fw-300 }
+
+## 目录
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}

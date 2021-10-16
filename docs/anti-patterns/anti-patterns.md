@@ -11,3 +11,9 @@ permalink: /docs/anti-patterns
 
 反模式，指的则是在实践中明显出现，但低效或有待优化的模式，是用来解决问题的带有共同性的不良方法。 
 {: .fs-6 .fw-300 }
+
+## 目录
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
