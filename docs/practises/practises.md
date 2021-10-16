@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 开发者体验实践
-nav_order: 2
+title: 原则与实践
+nav_order: 4
 has_children: true
 permalink: /docs/practises
 ---
