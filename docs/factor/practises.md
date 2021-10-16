@@ -7,10 +7,7 @@ permalink: /docs/factor
 ---
 
 # 设计因子
+{: .no_toc }
 
+开发者体验所需要的五个基础元素。
 {: .fs-6 .fw-300 }
-
-1. TOC
-{:toc}
-
-------
