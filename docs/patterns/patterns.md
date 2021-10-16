@@ -3,7 +3,7 @@ layout: default
 title: 实践模式
 nav_order: 5
 has_children: true
-permalink: /docs/factor
+permalink: /docs/patterns
 ---
 
 # 开发者体验：实践模式
