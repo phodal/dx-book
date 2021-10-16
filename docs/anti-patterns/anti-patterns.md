@@ -10,9 +10,6 @@ permalink: /docs/anti-patterns
 
 {: .fs-6 .fw-300 }
 
-## 目录
-{: .no_toc .text-delta }
-
 1. TOC
 {:toc}
 

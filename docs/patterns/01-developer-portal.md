@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 开发者门户
-parent: 设计因子
+title: 开发者门户（TBC）
+parent: 实践模式
 nav_order: 1
 ---
 
