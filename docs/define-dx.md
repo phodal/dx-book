@@ -12,11 +12,11 @@ permalink: /
 开发者体验是开发人员对于针对使用或期望使用的产品、系统或者服务的认知印象和回应。有所不同的是，用户关注的内容变为库，SDK，文档，框架，开源解决方案，通用工具，API 等的开发人员的体验。
 {: .fs-6 .fw-300 }
 
-[View it on GitHub](https://github.com/phodal/dx){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#定义开发者体验){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/phodal/dx){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-# 开发者体验：定义开发者体验
+# 定义开发者体验
 
 来，先我们来看一个开发者体验（DX，Developer Experience）的定义：
 
