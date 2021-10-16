@@ -1,5 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 
+title: 开发者体验：探索与重塑
+description: 2019，在经历了多个低代码前端项目的售前，以及一个低代码项目的技术实践强化，发现国内的 IT 企业缺乏对于『开发者体验』缺乏系统性的思考。便想着结合自己的项目经历、社区经验、国内外实际情况等，编写一个简要的开发者体验电子书。
+
 heading_anchors: true
 
 footer_content: "Copyright &copy;  2020~2021 [Phodal Huang](https://www.phodal.com). This code is distributed under the Creative Commons Attribution-Noncommercial-No Derivative Works 3.0  License. See `LICENSE` in this directory."
@@ -15,3 +18,13 @@ gh_edit_repository: "https://github.com/phodal/dx" # the github URL for your rep
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+
+plugins:
+  - jekyll-seo-tag
