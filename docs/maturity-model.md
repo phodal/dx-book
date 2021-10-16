@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 开发者体验成熟度模型
-nav_order: 3
+title: 度量模型设计
+nav_order: 2
 ---
 
-# 开发者体验成熟度模型
+# 开发者体验：度量模型设计
 {: .no_toc }
 
 {: .fs-6 .fw-300 }

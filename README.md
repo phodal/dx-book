@@ -10,9 +10,11 @@
 
 文档目录：[docs](./docs)
 
+模板：[https://github.com/pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs)
+
 欢迎参与讨论与 PR
 
-Todolist:
+## Todo
 
  - [x] define dex
  - [x] maturity model
@@ -27,7 +29,7 @@ Todolist:
    - [ ] developer relation
  - [ ] anti patterns
    - [x] developer as services
-
+   
 ## License
 
 [![Phodal's Book](http://brand.phodal.com/shields/book-small.svg)](https://www.phodal.com/)

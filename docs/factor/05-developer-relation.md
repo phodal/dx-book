@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 开发者关系（TBC）
-parent: 原则与实践
+parent: 设计因子
 nav_order: 1
 ---
 
-# 开发者关系（TBC）
+# 开发者体验：开发者关系（TBC）
 {: .no_toc }
 
 ## 目录

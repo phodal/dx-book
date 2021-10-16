@@ -9,7 +9,6 @@ nav_order: 99
 
 ---
 
-
 开发者体验相关资料：
 
  - 《[Understanding a Path](https://toddmoy.com/sendgrid-journeymap)》

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 易用性设计（TBC）
-parent: 原则与实践
+title: 错误呈现
+parent: 设计因子
 nav_order: 1
 ---
 
-# 易用性设计（TBC）
+# 开发者体验：错误呈现
 {: .no_toc }
 
 ## 目录
@@ -15,3 +15,6 @@ nav_order: 1
 {:toc}
 
 ---
+
+TBC
+

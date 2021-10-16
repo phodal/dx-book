@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 交互设计（TBC）
-parent: 原则与实践
+title: 开发者门户
+parent: 设计因子
 nav_order: 1
 ---
 
-# 交互设计（TBC）
+# 实践模式：开发者门户（TBC）
 {: .no_toc }
 
 ## 目录

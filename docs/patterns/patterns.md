@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 反模式
-nav_order: 6
+title: 实践模式
+nav_order: 5
 has_children: true
-permalink: /docs/anti-patterns
+permalink: /docs/factor
 ---
 
-# 开发者体验：反模式
+# 开发者体验：实践模式
 
 {: .fs-6 .fw-300 }
 
@@ -16,3 +16,4 @@ permalink: /docs/anti-patterns
 1. TOC
 {:toc}
 
+------

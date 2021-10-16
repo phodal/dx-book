@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 文档体验设计
-parent: 原则与实践
+parent: 设计因子
 nav_order: 1
 ---
 
-# 文档体验设计
+# 开发者体验：文档体验设计
 {: .no_toc }
 
 ## 目录
