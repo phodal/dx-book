@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 易用性设计（TBC）
-parent: 设计因子
+parent: 开发者体验设计因子
 nav_order: 1
 ---
 

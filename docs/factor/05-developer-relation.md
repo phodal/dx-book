@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 开发者关系（TBC）
-parent: 设计因子
+parent: 开发者体验设计因子
 nav_order: 1
 ---
 
