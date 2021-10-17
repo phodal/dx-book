@@ -52,6 +52,10 @@ search:
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-JR0EZ3NLE1
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
 plugins:
   - jekyll-seo-tag
