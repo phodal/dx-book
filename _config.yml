@@ -59,6 +59,14 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 url: "https://dx.phodal.com" # the base hostname & protocol for your site
 
+# Aux links for the upper right navigation
+aux_links:
+  "View in on GitHub":
+    - "//github.com/phodal/dx"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
