@@ -26,7 +26,7 @@ nav_order: 98
 
 基于这一个基本的模式（从社区-产品），我提取了第一版本的『**技术产品化运营元模型**』（请原谅我图画的丑）：
 
-![技术产品化运营元模型](https://dts.plus/technology-product-marketing/community-technology.png)
+![技术产品化运营元模型](/images/community-technology.png)
 
 从某种意义上来说，这个领域所做的事情和现在的新媒体运营有点相似。但是，它的强技术背景大大提升了准入的门槛。而如果你也有一定的经验，你可以从上图中的四个步骤，看出产品化运营的困难之处，它涉及到多个领域：技术、社区运营、开源者体验设计、开放式协作等。
 
@@ -36,7 +36,7 @@ nav_order: 98
 
 在上图的元模型中，我们定义了基本的模式。基于这个模式，我们可以扩展我们的策略，如下图所示：
 
-![开源软件产品化运营策略](https://dts.plus/technology-product-marketing/opensource-comunnity.png)
+![开源软件产品化运营策略](/images/opensource-comunnity.png)
 
 它以 KOL（关键意见领袖） 和布道师构建了影响力的中心，模式也稍微有一些变化。随后，我们需要：
 
