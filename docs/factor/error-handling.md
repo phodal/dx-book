@@ -2,7 +2,7 @@
 layout: default
 title: 错误呈现
 parent: 开发者体验设计因子
-nav_order: 1
+nav_order: 2
 ---
 
 # 开发者体验：错误呈现

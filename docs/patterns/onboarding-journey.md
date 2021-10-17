@@ -1,7 +1,7 @@
 layout: default
 title: 新手体验设计
 parent: 实践模式
-nav_order: 1
+nav_order: 2
 ---
 
 # 实践模式：新手体验设计
