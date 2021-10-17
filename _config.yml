@@ -57,5 +57,8 @@ back_to_top_text: "Back to top"
 ga_tracking: G-JR0EZ3NLE1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
+url: "https://dx.phodal.com" # the base hostname & protocol for your site
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
