@@ -14,6 +14,8 @@
 
 欢迎参与讨论与 PR
 
+![Wechat QRCode](images/qrcode.jpg)
+
 ## Todo
 
  - [x] define dex

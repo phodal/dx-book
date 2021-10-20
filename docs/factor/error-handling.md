@@ -134,3 +134,9 @@ error: could not compile `lumos` due to previous error
 示例：https://github.com/ScoopInstaller/Main/issues/2711
 
 详细可以参见对应的 GitHub Actions: [https://github.com/shovel-org/GithubActions](https://github.com/shovel-org/GithubActions)
+
+
+## 参考资料
+
+- [The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/) 一篇详细介绍编程语言错误模型的文章。
+
