@@ -31,3 +31,27 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
    1. uname 等
 3. 下载器
 4. 秘密套件
+
+
+## 示例
+
+### macOS
+
+### Windows
+
+[Scoop](https://scoop.sh/) usage: 
+
+```bash
+scoop install curl
+```
+
+安装
+
+```powershell
+Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
+```
+
+```powershell
+# or shorter
+iwr -useb get.scoop.sh | iex
+```
