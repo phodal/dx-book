@@ -41,7 +41,9 @@ Simple HTTP Server
 
 ### 示例：CLI
 
-### 示例：Playground
+### 示例：Swift Playground 构建学习体验
+
+示例：Swift https://developer.apple.com/cn/swift-playgrounds/
 
 示例：https://play.rust-lang.org/
 
