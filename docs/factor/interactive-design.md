@@ -16,23 +16,13 @@ nav_order: 4
 
 ---
 
+> 设计与开发者的交互方式，以提升整体的体验 。
+
 TBC
 
-## 模式：1-Click
+## 模式：CLI
 
-示例：OpenSuSE
-
-Vim 示例：[https://software.opensuse.org/package/vim](https://software.opensuse.org/package/vim)
-
-示例：VSCode
-
-Rust 插件：[https://marketplace.visualstudio.com/items?itemName=rust-lang.rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rustv)
-
-示例：Jetbrains IDE
-
-Rust 插件：[https://plugins.jetbrains.com/plugin/8182-rust](https://plugins.jetbrains.com/plugin/8182-rust)
-
-## 模式：零配置
+## 模式：零配置/低配置
 
 示例：Raspberry Pi
 

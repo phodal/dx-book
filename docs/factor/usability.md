@@ -16,6 +16,21 @@ nav_order: 3
 
 ---
 
+基于生命周期来梳理来考虑易用性
+
+## 模式：1-Click 安装
+
+示例：OpenSuSE
+
+Vim 示例：[https://software.opensuse.org/package/vim](https://software.opensuse.org/package/vim)
+
+示例：VSCode
+
+Rust 插件：[https://marketplace.visualstudio.com/items?itemName=rust-lang.rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rustv)
+
+示例：Jetbrains IDE
+
+Rust 插件：[https://plugins.jetbrains.com/plugin/8182-rust](https://plugins.jetbrains.com/plugin/8182-rust)
 
 ## 模式：一键式安装
 
