@@ -41,6 +41,15 @@ Simple HTTP Server
 
 示例：https://tree-sitter.github.io/tree-sitter/playground
 
+![Tree Sitter 示例](image/tree-sitter-sample.png)
+
+### 示例：一键复制
+
+诸如于 Crates.io 上的软件包，以 [writing](https://crates.io/crates/writing) 为例：
+
+![Writing 示例](/image/writing-copy.png)
+
+
 ### 示例：沙盒环境
 
 > 沙箱是一种测试环境，可将未经测试的代码更改和直接实验与生产环境或存储库隔离，在软件开发环境中，包括 Web 开发、自动化和修订控制。 

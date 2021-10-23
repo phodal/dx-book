@@ -34,15 +34,26 @@ nav_order: 3
 
 评估时，可以简化为：目标使用者感受到该操作界面的有效性（有达到目的）以及效率（使用时所需的工夫或时间）
 
-## 要素
+## 核心三要素
 
-### 全生命周期考量
+### 开发者旅程
+
+全生命周期考量
+
+- 应用评估
+- 安装与应用
+- 文档与配置
+- 失败恢复
+- 错误支持
+- 卸载软件体验
 
 ### 最少努力原则 
 
 最小努力原则(Principle of Least Effort)最小努力原则是指人们在解决任何一个问题时，总是力图把所有可能付出的平均工作最小化。
 
-### 
+### 为度量设计
+
+
 
 ## 示例
 
@@ -60,6 +71,8 @@ nav_order: 3
 curl --proto '=https' --tlsv1.2 -sSf https://just.systems/install.sh | bash -s -- --to DEST
 ```
 
+### OpenSuSE 
+
 ## 易用性设计模式
 
 - 谁是使用者，他们知道什么，以及他们能够学习什么？
@@ -74,15 +87,20 @@ curl --proto '=https' --tlsv1.2 -sSf https://just.systems/install.sh | bash -s -
 
 示例：OpenSuSE
 
+![OpenSuSE 1 Click 安装](image/opensuse-1-click.png)
+
 Vim 示例：[https://software.opensuse.org/package/vim](https://software.opensuse.org/package/vim)
+
+![IDEA Rust 插件示例](image/idea-rust-click.png)
+
+示例：Jetbrains IDE
+
+Rust 插件：[https://plugins.jetbrains.com/plugin/8182-rust](https://plugins.jetbrains.com/plugin/8182-rust)
 
 示例：VSCode
 
 Rust 插件：[https://marketplace.visualstudio.com/items?itemName=rust-lang.rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rustv)
 
-示例：Jetbrains IDE
-
-Rust 插件：[https://plugins.jetbrains.com/plugin/8182-rust](https://plugins.jetbrains.com/plugin/8182-rust)
 
 ### 模式：一行命令安装
 
@@ -123,3 +141,6 @@ Angular Schematics
 - [前端的自动化重构](https://www.phodal.com/blog/frontend-auto-refactor/)
 
 ### 模式：自助卸载
+
+对于软件包安装来说，
+
