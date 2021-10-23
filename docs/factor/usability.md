@@ -87,11 +87,11 @@ curl --proto '=https' --tlsv1.2 -sSf https://just.systems/install.sh | bash -s -
 
 示例：OpenSuSE
 
-![OpenSuSE 1 Click 安装](image/opensuse-1-click.png)
+![OpenSuSE 1 Click 安装](/image/opensuse-1-click.png)
 
 Vim 示例：[https://software.opensuse.org/package/vim](https://software.opensuse.org/package/vim)
 
-![IDEA Rust 插件示例](image/idea-rust-click.png)
+![IDEA Rust 插件示例](/image/idea-rust-click.png)
 
 示例：Jetbrains IDE
 

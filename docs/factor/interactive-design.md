@@ -41,7 +41,7 @@ Simple HTTP Server
 
 示例：https://tree-sitter.github.io/tree-sitter/playground
 
-![Tree Sitter 示例](image/tree-sitter-sample.png)
+![Tree Sitter 示例](/image/tree-sitter-sample.png)
 
 ### 示例：一键复制
 
