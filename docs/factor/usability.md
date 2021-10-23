@@ -44,6 +44,22 @@ nav_order: 3
 
 ### 
 
+## 示例
+
+### Just
+
+[Just](https://github.com/casey/just)
+
+针对于操作系统、包管理工具、包名、安装命令，
+
+从构建的层面来考虑，这是一个非常复杂的工作，它需要通过自动化来解决。
+
+对应的还有 Sublime Text 相关的语法。
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://just.systems/install.sh | bash -s -- --to DEST
+```
+
 ## 易用性设计模式
 
 - 谁是使用者，他们知道什么，以及他们能够学习什么？
