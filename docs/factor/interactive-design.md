@@ -22,6 +22,14 @@ nav_order: 4
 
 TBC
 
+## 核心要素 
+
+### 构建学习体验
+
+认知能力
+
+### 
+
 
 ## 模式：零配置/低配置
 
@@ -57,3 +65,6 @@ Simple HTTP Server
 [https://jsfiddle.net](https://jsfiddle.net)
 
 
+## 参考资料
+
+- 《[我是如何在谷歌做开发者用户体验的](https://github.com/xitu/gold-miner/blob/master/TODO/how-i-do-developer-ux-at-google.md)》 en：[How I do Developer UX at Google](https://medium.com/google-design/how-i-do-developer-ux-at-google-b21646c2c4df)

@@ -126,6 +126,8 @@ Rust 应用
 
 示例：[Spring Initializr](https://start.spring.io)
 
+![Spring Initializr](image/spring-initalizr.png)
+
 不幸的是 Windows 用户暂时只能通过 `rustup-init.exe` 安装。
 
 ### 模式：自动化版本迁移工具
