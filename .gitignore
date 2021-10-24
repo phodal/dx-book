@@ -17,3 +17,4 @@ Gemfile.lock
 assets
 template
 .DS_Store
+default.profraw
