@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 触点
+title: 触点与支持
 parent: 开发者体验设计因子
 nav_order: 5
 ---
