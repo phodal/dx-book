@@ -39,9 +39,15 @@ Simple HTTP Server
 
 ## 示例
 
-### 示例：CLI
+### 模式：CLI
 
-### 示例：Swift Playground 构建学习体验
+CLI，命令行界面（英語：Command-Line Interface，缩写：CLI）是在图形用户界面得到普及之前使用最为广泛的用户界面，它通常不支持鼠标，用户通过键盘输入指令，计算机接收到指令后，予以执行。也有人称之为字符用户界面（character user interface, CUI）[^cli]。
+
+[^cli]: https://zh.wikipedia.org/zh/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%95%8C%E9%9D%A2
+
+对于一个现代化的 CLI 来说，它需要提供一个能面向 IDE/ 编辑器作为接口的 API，以帮助于工具开发者，更好的集成到系统中。
+
+### 模式：Swift Playground 构建学习体验
 
 示例：Swift https://developer.apple.com/cn/swift-playgrounds/
 
@@ -53,14 +59,14 @@ Simple HTTP Server
 
 ![Tree Sitter 示例](/image/tree-sitter-sample.png)
 
-### 示例：一键复制
+### 模式：一键复制
 
 诸如于 Crates.io 上的软件包，以 [writing](https://crates.io/crates/writing) 为例：
 
 ![Writing 示例](/image/writing-copy.png)
 
 
-### 示例：沙盒环境
+### 模式：沙盒环境
 
 > 沙箱是一种测试环境，可将未经测试的代码更改和直接实验与生产环境或存储库隔离，在软件开发环境中，包括 Web 开发、自动化和修订控制。 
 
