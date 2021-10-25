@@ -17,6 +17,9 @@ nav_order: 1
 ---
 
 
+## 示例
+
+### *Nix 下的 Rust
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -33,12 +36,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 4. 验证包
 5. 安装包
 
-
-## 示例
-
-### macOS
-
-### Windows
+### Windows 下的 Scoop
 
 [Scoop](https://scoop.sh/) usage: 
 

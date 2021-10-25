@@ -78,7 +78,7 @@ nav_order: 3
 
 ### Just
 
-[Just](https://github.com/casey/just)
+GitHub: [https://github.com/casey/just](https://github.com/casey/just)
 
 针对于操作系统、包管理工具、包名、安装命令，
 
