@@ -9,6 +9,39 @@ nav_order: 99
 
 ---
 
+[Awesome DX (Developer Experience)](https://github.com/workos-inc/awesome-developer-experience)
+
+## Why Build
+
+### Uber
+
+[Constructing a Seamless Flow: Meet Uber Engineering’s Developer Experience Team](https://eng.uber.com/developer-experience/)
+
+### Slack
+
+[How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+
+###  Netlify
+
+[Developer Experience at Netlify](https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/)
+
+Developer Experience is a hybrid advocacy and engineering, our Objectives and Key Results (OKRs) are:
+
+- Qualified Signups
+- Active Developers (and the depth of use of the platform)
+- Engineering throughput: PRs merged, how many days an issue is open, and how many issues closed
+
+### Swagger
+
+[ API Developer Experience: Why it Matters, and How Documenting Your API with Swagger Can Help ](https://swagger.io/blog/api-documentation/api-documentation-and-developer-experience/)
+
+### Microsoft
+
+[Developer Experience (DevEx)](https://microsoft.github.io/code-with-engineering-playbook/developer-experience/)
+
+
+## Refs
+
 书籍：
 
 - 《活文档：与代码共同演进》
