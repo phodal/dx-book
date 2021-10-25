@@ -22,34 +22,37 @@ nav_order: 4
 
 TBC
 
-## 核心要素 
-
-### 构建学习体验
-
-认知能力
+## 核心要素
 
 ### 为连接而设计
 
 内部连接到社区，社区连接到人
 
+### 降低认识负荷
 
-## 模式：零配置/低配置
+构建学习体验
+
+## 模式
+
+### 模式：零配置/低配置
 
 示例：Raspberry Pi
 
 Simple HTTP Server
 
-## 示例
-
 ### 模式：CLI
 
-CLI，命令行界面（英語：Command-Line Interface，缩写：CLI）是在图形用户界面得到普及之前使用最为广泛的用户界面，它通常不支持鼠标，用户通过键盘输入指令，计算机接收到指令后，予以执行。也有人称之为字符用户界面（character user interface, CUI）[^cli]。
+面向开发者设计交互时，与面向普通用户的产品存在一些差异性。诸如于面向普通用户时，GUI 是一个更好的选择，而面向开发人员时，CLI 是一个更好的选择。
+
+> CLI，命令行界面（英語：Command-Line Interface，缩写：CLI）是在图形用户界面得到普及之前使用最为广泛的用户界面，它通常不支持鼠标，用户通过键盘输入指令，计算机接收到指令后，予以执行。也有人称之为字符用户界面（character user interface, CUI）[^cli]。
 
 [^cli]: https://zh.wikipedia.org/zh/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%95%8C%E9%9D%A2
 
+CLI 可以提供用于命令行的运行环境，只需要复制/粘贴一下，就能快速解决问题。同时，可以适用于无 GUI 的无服务器端。
+
 对于一个现代化的 CLI 来说，它需要提供一个能面向 IDE/ 编辑器作为接口的 API，以帮助于工具开发者，更好的集成到系统中。
 
-### 模式：Swift Playground 构建学习体验
+### 模式：Playground 构建学习体验
 
 示例：Swift https://developer.apple.com/cn/swift-playgrounds/
 
