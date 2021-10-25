@@ -39,6 +39,9 @@ Developer Experience is a hybrid advocacy and engineering, our Objectives and Ke
 
 [Developer Experience (DevEx)](https://microsoft.github.io/code-with-engineering-playbook/developer-experience/)
 
+### Paypal
+
+[ About PayPal Developer Documentation](https://developer.paypal.com/home)
 
 ## Refs
 
