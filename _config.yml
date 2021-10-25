@@ -5,7 +5,7 @@ description: 2019，在经历了多个低代码前端项目的售前，以及一
 
 heading_anchors: true
 
-footer_content: "Copyright &copy;  2020~2021 [Phodal Huang](https://www.phodal.com). This code is distributed under the Creative Commons Attribution-Noncommercial-No Derivative Works 3.0  License. See `LICENSE` in this directory."
+footer_content: "Copyright &copy; Phodal (for temp). 2020~2021 DX China.This code is distributed under the CC BY 4.0 License. See `LICENSE` in this directory."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
