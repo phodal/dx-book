@@ -27,6 +27,14 @@ nav_order: 5
 
 ### Hackathon
 
+### 视频
+
+## 示例
+
+### 亚马逊
+
+[亚马逊云科技数字化培训](https://m.study.163.com/m/provider/480000002278455/index.htm)
+
 ## 内容战略
 
 ## 角色：开发者关系 
