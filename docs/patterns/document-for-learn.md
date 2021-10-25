@@ -1,7 +1,7 @@
 layout: default
 title: 文档引导学习
 parent: 实践模式
-nav_order: 2
+nav_order: 3
 ---
 
 # 实践模式：文档引导学习

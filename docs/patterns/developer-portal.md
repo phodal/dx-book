@@ -2,7 +2,7 @@
 layout: default
 title: 开发者门户
 parent: 实践模式
-nav_order: 1
+nav_order: 2
 ---
 
 # 实践模式：开发者门户
