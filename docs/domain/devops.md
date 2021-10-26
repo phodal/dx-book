@@ -25,3 +25,15 @@ nav_order: 2
 - 为包容性设计。通过让具有不同专业知识、人口结构、能力和倾向的人成为数字产品的创造者，没有任何代码方法可以带来行业长期以来一直缺乏的多样性和丰富性。
 - 为可学习性和可发现性设计。说服开发人员通过深思熟虑地设计用户流程，在他们深入工作流程时逐步展示高级功能，从而对产品的深度和广度进行自我教育。
 - 为人类设计。以人为本，
+
+
+## K8s
+
+[5 tips to maximize the Kubernetes developer experience with Cloud Code](https://cloud.google.com/blog/products/application-development/5-tips-maximize-kubernetes-developer-experience-cloud-code)
+
+1. Develop where you're most comfortable
+2. Develop where you're most comfortable
+3. Simplify Local Development 
+4. Spend less time writing YAML
+5. Debug in real time
+
