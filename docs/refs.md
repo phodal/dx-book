@@ -33,7 +33,7 @@ Developer Experience is a hybrid advocacy and engineering, our Objectives and Ke
 
 ### Swagger
 
-[ API Developer Experience: Why it Matters, and How Documenting Your API with Swagger Can Help ](https://swagger.io/blog/api-documentation/api-documentation-and-developer-experience/)
+[API Developer Experience: Why it Matters, and How Documenting Your API with Swagger Can Help ](https://swagger.io/blog/api-documentation/api-documentation-and-developer-experience/)
 
 ### Microsoft
 
@@ -41,7 +41,11 @@ Developer Experience is a hybrid advocacy and engineering, our Objectives and Ke
 
 ### Paypal
 
-[ About PayPal Developer Documentation](https://developer.paypal.com/home)
+[About PayPal Developer Documentation](https://developer.paypal.com/home)
+
+### Mulesoft
+
+[10 ways to improve your API developer experience](https://blogs.mulesoft.com/digital-transformation/it-management/improve-api-developer-experience/)
 
 ## Refs
 

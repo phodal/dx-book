@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 交互设计（TBC）
+title: 交互设计
 parent: 开发者体验设计因子
 nav_order: 4
 ---
@@ -20,7 +20,9 @@ nav_order: 4
 
 ---
 
-TBC
+TBC。
+
+不同层级，提供完全的键盘操作与导航
 
 ## 核心要素
 
@@ -31,6 +33,12 @@ TBC
 ### 降低认识负荷
 
 构建学习体验
+
+使用 Playground 构建学习体验
+
+示例：Swift https://developer.apple.com/cn/swift-playgrounds/
+
+### 现代化工具与技术
 
 ## 模式
 
@@ -52,9 +60,7 @@ CLI 可以提供用于命令行的运行环境，只需要复制/粘贴一下，
 
 对于一个现代化的 CLI 来说，它需要提供一个能面向 IDE/ 编辑器作为接口的 API，以帮助于工具开发者，更好的集成到系统中。
 
-### 模式：Playground 构建学习体验
-
-示例：Swift https://developer.apple.com/cn/swift-playgrounds/
+### 模式：Playground 
 
 示例：https://play.rust-lang.org/
 
