@@ -162,9 +162,35 @@ ng update @angular/cli -- migrate-only production-by-default
 
 相应的机制比较简单，参见：[前端的自动化重构](https://www.phodal.com/blog/frontend-auto-refactor/)
 
-### 模式：自助卸载
+### 模式：一键卸载
 
-对于软件包安装来说，
+Homebrew 示例：
+
+```bash
+$ brew uninstall pandoc
+Uninstalling /usr/local/Cellar/pandoc/2.14.2... (10 files, 130.5MB)
+```
+
+自动清理：
+
+```bash
+==> `brew cleanup` has not been run in the last 30 days, running now...
+Removing: /usr/local/Cellar/bdw-gc/8.0.4_2... (69 files, 1.6MB)
+Removing: /Users/phodal/Library/Caches/Homebrew/ca-certificates--2021-09-30... (114.6KB)
+Removing: /Users/phodal/Library/Caches/Homebrew/dart--2.14.2.zip... (196.2MB)
+Removing: /usr/local/Cellar/fribidi/1.0.10... (67 files, 669.2KB)
+Removing: /usr/local/Cellar/gd/2.3.2... (35 files, 1.4MB)
+Removing: /usr/local/Cellar/gd/2.3.3... (33 files, 1.4MB)
+Removing: /usr/local/Cellar/gdbm/1.20... (24 files, 825.0KB)
+Removing: /usr/local/Cellar/gdbm/1.21... (24 files, 903.2KB)
+Removing: /usr/local/Cellar/gmp/6.2.1... (21 files, 3.3MB)
+```
+
+还可以手动清理：
+
+```bash
+$ brew autoremove
+```
 
 ## 相关资料
 
