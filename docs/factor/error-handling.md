@@ -16,9 +16,11 @@ nav_order: 2
 
 ---
 
+## 定义开发者体验
+
 开始之前，先让我们转换一下视角，让我们思考一下开发者是如何处理错误的？
 
-## 开发者如何处理错误？
+### 开发者如何处理错误？
 
 经典玩笑场景下，一旦开发者接收到错误时，会通过以下的三种方式解决：
 
@@ -39,7 +41,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 优秀的错误机制，则可以告诉开发者更多的信息，建议开发者使用类似的方式解决。
 
-## 错误呈现四要素
+## 错误呈现原则
 
 我尝试性的整理出第一个版本的错误处理四要素：
 
@@ -50,7 +52,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 基于这四个要素，我们可以思考一些潜在的错误呈现模式。
 
-## 错误呈现的模式
+## 错误呈现模式
 
 依据于上述的几个原则，我尝试性地整理了一些相关的模式，未来将更新在：[https://dx.phodal.com/](https://dx.phodal.com/) 上。
 
@@ -85,7 +87,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 源自于 FAQ是英文Frequently Asked Questions的缩写，中文意思就是“经常问到的问题”，或者更通俗地叫做“常见问题解答”。
 
-## 优秀的错误处理示例
+## 示例
 
 这里主要介绍两个案例，一个是 Rust 语言，一个是 Scoop（Windows 下的命令行安装器）。
 
