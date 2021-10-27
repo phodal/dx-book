@@ -83,13 +83,11 @@ nav_order: 3
 
 GitHub: [https://github.com/casey/just](https://github.com/casey/just)
 
-针对于操作系统、包管理工具、包名、安装命令，
+针对于操作系统、包管理工具、包名、安装命令。 从构建的层面来考虑，这是一个非常复杂的工作，它需要通过自动化来解决。 除此，对应的还有 Sublime Text 相关的语法支持。
 
-从构建的层面来考虑，这是一个非常复杂的工作，它需要通过自动化来解决。
+安装命令：
 
-对应的还有 Sublime Text 相关的语法。
-
-```
+```bash
 curl --proto '=https' --tlsv1.2 -sSf https://just.systems/install.sh | bash -s -- --to DEST
 ```
 
@@ -142,28 +140,33 @@ brew install wget
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-Rust 应用
+不幸的是 Windows 用户暂时只能通过 `rustup-init.exe` 安装。
 
 ### 模式：自助式搭建
 
-示例：[Spring Initializr](https://start.spring.io)
+> Spring Initializr 是 Pivotal Web 服务提供的基于 Web 的工具。借助 Spring Initializr, 我们可以轻松生成 Spring Boot Project 的结构。
+
+试用地址：[Spring Initializr](https://start.spring.io)，如下图所示：
 
 ![Spring Initializr](image/spring-initalizr.png)
 
-不幸的是 Windows 用户暂时只能通过 `rustup-init.exe` 安装。
-
 ### 模式：自动化版本迁移工具
 
-示例：Angular 版本更新
+示例：Angular 版本更新，只要执行：
 
-Angular Schematics
+```bash
+ng update @angular/cli -- migrate-only production-by-default
+```
 
-相关文章：
-
-- [https://www.invespcro.com/blog/usability-design-for-a-better-user-experience/](https://www.invespcro.com/blog/usability-design-for-a-better-user-experience/)
-- [前端的自动化重构](https://www.phodal.com/blog/frontend-auto-refactor/)
+相应的机制比较简单，参见：[前端的自动化重构](https://www.phodal.com/blog/frontend-auto-refactor/)
 
 ### 模式：自助卸载
 
 对于软件包安装来说，
+
+## 相关资料
+
+相关文章：
+
+- [https://www.invespcro.com/blog/usability-design-for-a-better-user-experience/](https://www.invespcro.com/blog/usability-design-for-a-better-user-experience/)
 
