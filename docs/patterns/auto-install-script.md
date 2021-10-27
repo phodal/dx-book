@@ -16,10 +16,12 @@ nav_order: 1
 
 ---
 
+一行命令（1-line script  / one line script）安装：
+
 
 ## 示例
 
-### *Nix 下的 Rust
+### *Nix 下的 Rust 安装
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
