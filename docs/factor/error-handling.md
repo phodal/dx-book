@@ -43,16 +43,23 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ## 错误呈现原则
 
-我尝试性的整理出第一个版本的错误处理四要素：
+### 以人为本，信息友好
 
-1. 以人为本，信息友好。为人类而非机器设计、返回有意义的错误信息、不指责用户（PS：映射回 blaming the user）
-2. 构建学习体验。一步步指引，从错误码、到 GitHub issue 邮件组等。
-3. 一致性设计。如 API 错误码，在 Slack 的 API 设计原则，要求与行业、其他产品和 API 保持一致性。
-4. 避免错误产生。及时反馈、通过 IDE 消除、运行时验收、请求-确认
+为人类而非机器设计、返回有意义的错误信息、不指责用户（PS：映射回 blaming the user）
 
-基于这四个要素，我们可以思考一些潜在的错误呈现模式。
+### 构建学习体验
 
-## 错误呈现模式
+一步步指引，从错误码、到 GitHub issue 邮件组等。
+
+### 一致性设计
+
+如 API 错误码，在 Slack 的 API 设计原则，要求与行业、其他产品和 API 保持一致性。
+
+### 避免错误产生
+
+及时反馈、通过 IDE 消除、运行时验收、请求-确认
+
+s## 错误呈现模式
 
 依据于上述的几个原则，我尝试性地整理了一些相关的模式，未来将更新在：[https://dx.phodal.com/](https://dx.phodal.com/) 上。
 
@@ -136,7 +143,6 @@ error: could not compile `lumos` due to previous error
 示例：https://github.com/ScoopInstaller/Main/issues/2711
 
 详细可以参见对应的 GitHub Actions: [https://github.com/shovel-org/GithubActions](https://github.com/shovel-org/GithubActions)
-
 
 ## 参考资料
 
