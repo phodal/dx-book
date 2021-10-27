@@ -59,7 +59,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 及时反馈、通过 IDE 消除、运行时验收、请求-确认
 
-s## 错误呈现模式
+## 错误呈现模式
 
 依据于上述的几个原则，我尝试性地整理了一些相关的模式，未来将更新在：[https://dx.phodal.com/](https://dx.phodal.com/) 上。
 
