@@ -16,6 +16,10 @@ nav_order: 3
 
 ---
 
-## 相关案例
+## 特征
+
+## 案例
 
 - [如何评价阿里oceanbase GitHub点赞送礼？](https://www.zhihu.com/question/494108102/answer/2185308483)
+
+## 潜伏方案
