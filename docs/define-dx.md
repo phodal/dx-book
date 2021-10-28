@@ -12,6 +12,10 @@ permalink: /
 开发者体验是开发人员对于针对使用或期望使用的产品、系统或者服务的认知印象和回应。关注的内容为库，SDK，文档，框架，开源解决方案，通用工具，API 等的开发人员的体验。
 {: .fs-6 .fw-300 }
 
+
+欢迎通过以 GitHub issue 的方式来讨论文章的内容。
+{: .fs-4 .fw-300 }
+
 [Get started now](#定义开发者体验){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/phodal/dx){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
