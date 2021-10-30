@@ -99,10 +99,16 @@ Simple HTTP Server
 
 [https://jsfiddle.net](https://jsfiddle.net)
 
-
 ### 模式：DSL 构建编程体验 
 
 从体验层面来看，使用 DSL
+
+### 模式：训战
+
+如阿里云官方实验平台，提供真实云环境、精品实验项目、详细实验文档， 帮助你快速上手并掌握阿里云产品。
+
+示例：[阿里云 - 云起实验室](https://developer.aliyun.com/adc/) 
+
 
 ## 参考资料
 
