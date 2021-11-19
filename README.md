@@ -14,9 +14,11 @@
 
 模板：[https://github.com/pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs)
 
-欢迎参与讨论与 PR
+欢迎参与讨论与 PR：
 
 ![Wechat QRCode](image/qrcode.jpg)
+
+（PS：如果群满了，请添加我的微信 `phodal02` ）
 
 ## Todo
 
