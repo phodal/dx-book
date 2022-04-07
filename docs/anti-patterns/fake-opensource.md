@@ -31,8 +31,12 @@ nav_order: 5
 
 ## 案例
 
-[TDengine](https://github.com/taosdata/TDengine/)
+### [TDengine](https://github.com/taosdata/TDengine/)
 
 - 使用内部 Jira 号。[#8549](https://github.com/taosdata/TDengine/pull/8459) 提交信息: `[TD-5892]<docs>: officially document the PyPI python connector`
+
+#### 后续改进 
+
+
 
 ## 潜伏方案
