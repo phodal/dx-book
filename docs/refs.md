@@ -11,9 +11,7 @@ nav_order: 99
 
 [Awesome DX (Developer Experience)](https://github.com/workos-inc/awesome-developer-experience)
 
-[Awesome DX (Developer Experience)](https://github.com/workos-inc/awesome-developer-experience)
-
-## Opensource for DX
+## Opensource libs for DX
 
 ### GitHub
 
