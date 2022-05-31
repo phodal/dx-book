@@ -11,6 +11,15 @@ nav_order: 99
 
 [Awesome DX (Developer Experience)](https://github.com/workos-inc/awesome-developer-experience)
 
+[Awesome DX (Developer Experience)](https://github.com/workos-inc/awesome-developer-experience)
+
+## Opensource for DX
+
+### GitHub
+
+- [new-github-issue-url](https://github.com/sindresorhus/new-github-issue-url)  Generate a URL for opening a new GitHub issue with prefilled title, body, and other fields 
+
+
 ## Why Build
 
 ### Uber
