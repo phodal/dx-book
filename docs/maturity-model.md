@@ -59,6 +59,18 @@ API 开发者体验度量指标：
 | TTFPA   | 从应用版本发布到第一个使用该版本源码修改第三方应用所用的时间 |
 | Dev-NPS | 开发者将该API推荐给其它开发者的净推荐值
 
+### API 指标示例： TTW
+
+TTW, Time to Wow
+
+改进方式：
+
+- 编写特定使用场景的文档
+- 提供沙盒环境
+
+
+refs: [Growth Hacking: Creating a Wow Moment](https://www.forentrepreneurs.com/time-to-wow/)
+
 ## 度量体系度量与优化
 
 开发者体验优化相关的步骤：
