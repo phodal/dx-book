@@ -68,6 +68,7 @@ TTW, Time to Wow
 - 编写特定使用场景的文档
 - 提供沙盒环境
 
+Deno 示例：https://dash.deno.com/playground/phodal
 
 refs: [Growth Hacking: Creating a Wow Moment](https://www.forentrepreneurs.com/time-to-wow/)
 
