@@ -25,6 +25,12 @@ nav_order: 2
 
 ## 示例
 
+### PyTorch
+
+显式化告诉用户合适的版本：
+
+![](https://pytorch.org/assets/images/amd_rocm_blog.png)
+
 
 ### Stripe
 
