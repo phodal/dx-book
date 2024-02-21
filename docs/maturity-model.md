@@ -42,7 +42,7 @@ nav_order: 2
 
 [Nordic API](https://nordicapis.com/how-to-measure-the-success-of-developer-relations/)：Weekly Active Tokens (WAT)、Time to First Hello World (TTFHW)
 
-API 开发者体验度量指标：
+API 开发者体验度量模型 - 如何改进：
 
 | 错误呈现 | 文档体验 | 易用性 | 交互式 | 触点 | 支持 |
 | --- | --- | --- | --- | --- | --- |
@@ -50,6 +50,8 @@ API 开发者体验度量指标：
 | 报错即文档 | 发布日志 | 自动化版本迁移工具 | 声明式使用 | 演讲/分享 | 问题响应时间 |
 | 报错即修改建议 | 代码生成文档 | 自助式搭建 | 可交互文档 | Hackathon | 开发者即服务 |
 |   | 版本迁移指南 |   | 沙盒及产品环境 |   | 开发者社区 |
+
+[API Maturity](https://docs.google.com/presentation/d/1Xefae9zccXm0m_jmIDqrZ8Tazni2eK7BiRxlfSiDJ-0/edit)
 
 ### 度量模型示例：APP 
 
