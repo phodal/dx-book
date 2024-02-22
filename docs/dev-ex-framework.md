@@ -8,9 +8,11 @@ nav_order: 98
 {: .no_toc }
 
 适用领域：
+
 DevOps
 {: .label }
-AI Application
+
+AI + DevOps
 {: .label }
 
 ---
