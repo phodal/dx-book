@@ -6,37 +6,39 @@ nav_order: 2
 ---
 
 # 实践模式：开发者门户
+
 {: .no_toc }
 
 ## 目录
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
+**度量模型**
 
-开发者门户（Devportal）是 API、SDK 或其他交互式数字工具与其各种利益相关者之间的接口。它常常可以用于扮演多种角色来实现组织的业务目标，如可以用于构建产品与社区之间的桥梁。 
+1. **TTFHW（Time to First Hello World）：** TTFHW
+   是开发者门户度量模型中的一个关键指标，它表示用户从开始使用API、SDK或数字工具到成功实现第一个 "Hello World"
+   或基本操作的所需时间。较短的 TTFHW 通常表示工具易用性较高，用户能够快速上手。
 
-
-## 度量模型
-
-1. TTFHW
-
-## 示例
+**示例**
 
 ### PyTorch
 
-显式化告诉用户合适的版本：
+PyTorch的开发者门户为用户提供了明确的版本信息，帮助用户选择合适的版本，如下图所示：
 
-![](https://pytorch.org/assets/images/amd_rocm_blog.png)
+![PyTorch版本选择](https://pytorch.org/assets/images/amd_rocm_blog.png)
 
+在这个示例中，PyTorch的开发者门户通过图形化界面向用户展示了不同版本的选择，从而简化了配置过程，降低了 TTFHW。
 
 ### Stripe
 
+Stripe是一个在线支付解决方案的开发者门户，提供了详细的参考资料，包括 API
+文档、示例代码和常见问题解答。这些资源帮助开发者更轻松地集成Stripe支付服务到他们的应用中，减少了开发过程中的困难和延迟。
 
+### BackStage
 
-
-参考资料：
-
-《》
+BackStage是Spotify开源的开发者门户工具，用于管理多个微服务的生命周期。它提供了统一的界面，使开发者能够轻松访问各种工具、服务和文档。通过
+BackStage，开发者可以更高效地管理、发现和使用内部工具，促进了团队协作和项目开发的顺利进行。
