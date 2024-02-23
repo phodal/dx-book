@@ -1,3 +1,4 @@
+---
 layout: default
 title: 文档引导学习
 parent: 实践模式

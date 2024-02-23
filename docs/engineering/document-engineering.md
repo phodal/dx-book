@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 文档工程
-parent: 实践模式
-nav_order: 5
+parent: 工程化
+nav_order: 1
 ---
 
 # 开发者体验：文档工程
